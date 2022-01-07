@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on kubeflow
+🔭 I’m currently working as MLOps in 3i
 
-🌱 I’m currently learning kubernetes, DVC, AI pipeline CI/CD/CT
+🌱 I’m currently learning MLOps
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kosehy&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
