@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm SEUNG HYUN KO
+- MLOps Engineer
 
 <!--
 **kosehy/kosehy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working as MLOps in 3i
+🔭 I’m currently working on
+- [3i](https://www.3i.ai) (Dec 2020 ~ Present)
 
-🌱 I’m currently learning MLOps
+🌱 Interests
+- MLOps
+- Kubernetes
+- Kubeflow
+- Co-working with git
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kosehy&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
