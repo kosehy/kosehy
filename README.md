@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on
-- [3i](https://www.3i.ai) (Dec 2020 ~ Present)
+- [BIG]([beeintel.ai](https://beeintel.ai/)) (2025.06 ~ Present)
+- [3i](https://www.3i.ai) (Dec 2020 ~ 2025.02)
 
 🌱 Interests
 - MLOps
